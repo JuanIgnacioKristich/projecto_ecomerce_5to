@@ -1,0 +1,79 @@
+*{
+    margin: 0; 
+    padding: 0;
+    font-style: italic;
+    box-sizing: border-box;
+    background-color: rgb(229, 229, 203);
+}
+
+.header{ 
+    padding: .5rem;
+    width: 100%;
+    display: inline-block;
+    color: rgb(213, 206, 163);
+    background-color: rgb(60, 42, 33);
+    justify-content: space-between;
+    text-align: center;
+}
+.home{
+    margin: 5px;
+    width: 10%;
+    float: left;
+    border: solid  rgb(213, 206, 163)2px;
+    border-radius: 10PX;
+}
+.login{
+    margin: 5px;
+    width: 10%;
+    float: right;
+    border: solid rgb(213, 206, 163) 2px;
+    border-radius: 10PX;
+}
+.carrito{
+    margin: 5px;
+    width: 10%;
+    float: right;
+    border: solid rgb(213, 206, 163) 2px;
+    border-radius: 10PX;
+}
+.more_info{
+    margin: 5px;
+    width: 10%;
+    float: right;
+    border: solid rgb(229, 229, 203) 2px;
+    border-radius: 10PX;
+}
+
+.introduccion{
+    margin: .5rem;
+    padding: .5rem;
+    text-align: center;
+}
+.multimedia_del_index{
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.mult_logcafe{
+    margin: 2rem;
+    width: 256Px; 
+    height:256px;
+}
+
+.mult_logpane{
+    margin: 2rem;
+    width: 256Px;
+    height:256px;
+
+}
+.mult_logfono{
+    margin: 2rem;
+    width: 256Px;
+    height:256px;
+}
+
+
+
+
+
+
